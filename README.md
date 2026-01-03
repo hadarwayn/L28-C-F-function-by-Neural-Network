@@ -632,6 +632,7 @@ This project is for educational purposes as part of Dr. Yoram Segal's Deep Learn
 
 ## Author
 
+Hadar Wayn
 **Course:** Deep Learning L28 - Dr. Yoram Segal
 
 ---
